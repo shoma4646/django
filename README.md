@@ -18,3 +18,6 @@ makefileに定義済み、make installでrequirements.txtに記載されてい�
 
 # ライブラリの更新時
 makefileに定義済み、make requirementsで現状インストールされているものをrequirements.txtに書き出します。
+
+# APIの作成
+makefileに定義済み、make create-apiで作成するAPI名を入力すると、djangoのテンプレートで作成されます。
